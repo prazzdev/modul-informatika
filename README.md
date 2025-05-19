@@ -1,1 +1,1 @@
-# modul-informatika
+# Modul Mata Pelajaran Informatika SMA
